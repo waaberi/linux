@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0
+// Adding a comment for nothing
 
 #include <linux/entry-kvm.h>
 #include <linux/kvm_host.h>
